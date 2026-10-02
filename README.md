@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranto</h1>
 <h3 align="center">Currently Learning New Skills</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pr4nt0&label=Profile%20views&color=0e75b6&style=flat" alt="pr4nt0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PR4NT0&label=Profile%20views&color=0e75b6&style=flat" alt="pr4nt0" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
