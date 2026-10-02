@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Pranto&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learning%20%E2%80%A2%20Building%20%E2%80%A2%20Leveling%20Up&descAlignY=58&descSize=20" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=PR4NT0&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learning%20%E2%80%A2%20Building%20%E2%80%A2%20Leveling%20Up&descAlignY=58&descSize=20" alt="header" />
 
 <h1 align="center">Hi 👋, I'm Pranto</h1>
 
