@@ -63,15 +63,6 @@
 
 <br/>
 
-<!-- ═══════════════ CONTRIBUTIONS ═══════════════ -->
-<h3 align="center">📈 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pr4nt0&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=bd93f9&point=ffffff&area=true" alt="activity graph" width="100%" />
-</p>
-
-<br/>
-
 <!-- ═══════════════ CONNECT ═══════════════ -->
 <h3 align="center">🤝 Connect with Me</h3>
 
